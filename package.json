@@ -1,0 +1,11 @@
+{
+  "name": "cas-javeascript-homework-13-06-19",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Dan Soup (Daniel Thomas)",
+  "license": "ISC"
+}
